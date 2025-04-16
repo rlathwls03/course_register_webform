@@ -1,0 +1,12 @@
+body { font-family: sans-serif; padding: 20px; background-color: #f5f5f5; }
+.form-container {
+    width: 500px;
+    margin: auto;
+    background-color: #ddeeff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+label, input, select { display: block; width: 100%; margin-bottom: 10px; }
+.error { color: red; font-size: 0.9em; }
+h2 { text-align: center; }
